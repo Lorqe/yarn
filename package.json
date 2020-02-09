@@ -1,0 +1,12 @@
+{
+  "name": "Yarn",
+  "version": "1.0.0",
+  "description": "My Yarn Project",
+  "main": "index.js",
+  "repository": "https://github.com/Lorqe/yarn.git",
+  "author": "Henrik",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
